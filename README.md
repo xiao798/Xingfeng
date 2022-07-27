@@ -1,9 +1,5 @@
 ![](static-files/newbee-mall.png)
 
-![Build Status](https://img.shields.io/badge/build-passing-green.svg)
-![Version 2.0.0](https://img.shields.io/badge/version-2.0.0-yellow.svg)
-[![License](https://img.shields.io/badge/license-GPL3.0-blue.svg)](https://github.com/newbee-ltd/newbee-mall-vue-app/blob/master/LICENSE)
-
 newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 和 Vue 以及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 
 本仓库中的源码为新蜂商城前后端分离版本的 Vue 项目（Vue 版本为 2.x），主要面向前端开发人员，后端 API 源码在另外一个仓库 [newbee-mall-api](https://github.com/newbee-ltd/newbee-mall-api)。
@@ -22,8 +18,6 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 **坚持不易，如果觉得项目还不错的话可以给项目一个 Star 吧，也是对我一直更新代码的一种鼓励啦，谢谢各位的支持。**
 
 ![newbee-mall-info](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-star.png)
-
-关注公众号：**程序员十三**，回复"勾搭"进群交流。
 
 ![wx-gzh](https://newbee-mall.oss-cn-beijing.aliyuncs.com/wx-gzh/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%81%E4%B8%89-%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
@@ -71,19 +65,6 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 - [商城移动端开发实战-我的订单页面制作](https://juejin.im/book/6844733826191589390)
 - [Vue 3.x 新特性概览](https://juejin.im/book/6844733826191589390)
 - [新蜂商城迁移至 Vue 3.x 流程讲解](https://juejin.im/book/6844733826191589390)
-
-## 联系作者
-
-> 大家有任何问题或者建议都可以在 [issues](https://github.com/newbee-ltd/newbee-mall-vue-app/issues) 中反馈给我，我会慢慢完善这个项目。
-
-- 我的邮箱：2449207463@qq.com
-- QQ技术交流群：932227898 719099151 796794009 552142710
-
-## 软件著作权
-
->本系统已申请软件著作权，受国家版权局知识产权以及国家计算机软件著作权保护！
-
-![](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-copyright-02.png)
 
 ## 页面展示
 
